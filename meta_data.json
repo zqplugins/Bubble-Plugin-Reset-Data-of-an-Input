@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "media",
+        "2": "technical",
+        "3": "productivity",
+        "4": "data (things)"
+    },
+    "demo_page": "https://demo-reset-data-of-an-input.bubbleapps.io/version-test",
+    "description": "[🚀 WU Optimized] Reset data of a specific input by specifying its HTML ID.\nAlso works with Dropdown and Search Boxes.\nSimple workflow action \"Reset data of an input\".\nVery easy to use.\n\n✔️ FEATURES \n- Reset data of an Input \n- Reset data of a Searchbox\n- Reset data of a Dropdown\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/reset-data-of-an-input-plugin-for-bubble-1709851167283x188693689162839900\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1709851060227x199473596226121600/Screenshot%202024-03-08%20at%2001.35.33.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Reset Data of an Input",
+    "plugin_instructions": "===== SETUP =====\n\n1. Enable option to use HTML IDs in Settings -> Expose the option to add ID attribute to HTML elements\n\n2. Specify a unique ID in your input\n\n3. Define the type of the Input you want to reset\n\n4. Call the action \"Reset data of an input\" in the \"Workflow\" tab"
+}
