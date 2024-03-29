@@ -1,0 +1,23 @@
+{
+    "category": "plugins",
+    "display": "Reset data of an input",
+    "fields": {
+        "AAD": {
+            "caption": "Input HTML ID",
+            "doc": "The HTML ID of the element you want to reset the data.",
+            "editor": "StaticText",
+            "name": "input_id",
+            "rank": 0
+        },
+        "AAG": {
+            "caption": "Input Type",
+            "default_val": "Input",
+            "doc": "Select the type of your input",
+            "editor": "Dropdown",
+            "name": "input_type",
+            "options": "Input/Multiline Input,Searchbox,Dropdown",
+            "rank": 1
+        }
+    },
+    "type": "client_side"
+}
